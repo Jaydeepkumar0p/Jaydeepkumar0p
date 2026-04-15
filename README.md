@@ -1,97 +1,105 @@
 # 👋 Hi, I'm Jaydeep Kumar
 
-🚀 Full Stack Developer | MERN + Spring Boot  
-💡 Passionate about building scalable, real-world applications  
-📍 Chandigarh University  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN);Spring+Boot+Backend+Developer;Building+Real-Time+%26+AI+Apps;Always+Learning+New+Tech+🚀" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
-- ☕ Spring Boot Backend Developer
-- 🔌 Strong in REST APIs, authentication & real-time systems
-- 🤖 Exploring AI integration in web apps
-- 📈 Focused on clean code, performance & scalable architecture
+## 🚀 About Me
+💻 Full Stack Developer specializing in **MERN Stack & Spring Boot**  
+🔧 Skilled in building **scalable APIs, real-time apps & AI-powered systems**  
+🎯 Focused on **clean architecture, performance & real-world problem solving**  
+📍 Chandigarh University  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
-- React.js
-- JavaScript (ES6+)
-- Tailwind CSS / DaisyUI
-- Axios
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 
 ### 🔧 Backend
-- Node.js
-- Express.js
-- Spring Boot (Java)
-- REST APIs
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
 
 ### 🗄️ Database
-- MongoDB
-- MySQL
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Postman
-- Cloudinary
-- Vercel / Render
-- MongoDB Atlas
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### 💬 Real-Time Chat Application
-- Built with MERN + Socket.io
-- Features: authentication, messaging, image upload
-- Live: https://advanced-chat-app-mocha.vercel.app/
-
----
-
-### 🧠 AI Task Management System
-- AI-powered task summaries & smart suggestions
-- Features: priority, overdue tracking, notifications
+### 💬 Real-Time Chat App
+- MERN + Socket.io
+- Authentication, messaging, image upload  
+🔗 https://advanced-chat-app-mocha.vercel.app/
 
 ---
 
-### 📊 CRM System (AI Enhanced)
-- Customer segmentation & campaign management
-- AI features: message generation, tagging, scheduling
+### 🧠 AI Task Manager
+- AI-powered summaries & smart suggestions  
+- Task prioritization, overdue tracking  
 
 ---
 
-### 🛒 E-Commerce Platforms
-- Sweet Shop & Tech Store
-- Full-stack apps with authentication & product management
+### 📊 AI CRM System
+- Campaign management + customer segmentation  
+- AI features: message generation, tagging, scheduling  
 
 ---
 
-### ☕ Spring Boot Advanced Task Manager
-- Backend-focused project using Spring Boot
-- REST APIs, task scheduling, structured architecture
+### 🛒 E-Commerce Apps
+- Sweet Shop & Tech Store  
+- Full-stack apps with auth & product management  
 
 ---
 
-## 📈 GitHub Stats
-![Jaydeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+### ☕ Spring Boot Task Manager
+- Backend-focused REST API project  
+- Structured architecture & scheduling  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaydeepkumar0p&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaydeepkumar0p&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaydeepkumar0p&theme=tokyo-night" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced System Design
-- AI Integration in Web Apps
-- Backend Optimization
+- System Design  
+- AI Integration in Web Apps  
+- Backend Optimization  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your.email@example.com
+
+📧 Email: jaideepkr.0123@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/jaydeep-kumar-000b5424b  
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy turning complex problems into simple, elegant solutions 🚀
+I turn ideas into real-world scalable applications 🚀
